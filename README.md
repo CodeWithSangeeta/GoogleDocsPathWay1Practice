@@ -22,3 +22,11 @@ Language: Kotlin
 UI Toolkit: Jetpack Compose
 
 IDE: Android Studio
+
+ ## UI Screenshots
+<div align="center">
+  <img src="GoogleDocs/Screenshot 2025-09-28 002021.png" width="200" style="margin:10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="GoogleDocs/Screenshot 2025-09-28 002103.png" width="200" style="margin:10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="GoogleDocs/Screenshot 2025-09-28 002158.png" width="200" style="margin:10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="GoogleDocs/Screenshot 2025-09-28 002230.png" width="200" style="margin:10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
